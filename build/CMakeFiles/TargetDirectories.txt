@@ -1,0 +1,3 @@
+C:/Users/vighv/projects/VS_Code/Raytracing Weekend/build/CMakeFiles/raytracer.dir
+C:/Users/vighv/projects/VS_Code/Raytracing Weekend/build/CMakeFiles/edit_cache.dir
+C:/Users/vighv/projects/VS_Code/Raytracing Weekend/build/CMakeFiles/rebuild_cache.dir
