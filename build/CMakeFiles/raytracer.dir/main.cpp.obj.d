@@ -1,5 +1,5 @@
 CMakeFiles/raytracer.dir/main.cpp.obj: \
- C:\Users\vighv\projects\VS_Code\Raytracing\ Weekend\main.cpp \
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\main.cpp \
  C:/msys64/mingw64/include/c++/13.1.0/iostream \
  C:/msys64/mingw64/include/c++/13.1.0/bits/requires_hosted.h \
  C:/msys64/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -127,8 +127,8 @@ CMakeFiles/raytracer.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.1.0/bits/ostream.tcc \
  C:/msys64/mingw64/include/c++/13.1.0/istream \
  C:/msys64/mingw64/include/c++/13.1.0/bits/istream.tcc \
- C:\Users\vighv\projects\VS_Code\Raytracing\ Weekend\color.h \
- C:\Users\vighv\projects\VS_Code\Raytracing\ Weekend\vec3.h \
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\color.h \
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\vec3.h \
  C:/msys64/mingw64/include/c++/13.1.0/cmath \
  C:/msys64/mingw64/include/math.h \
- C:\Users\vighv\projects\VS_Code\Raytracing\ Weekend\ray.h
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\ray.h

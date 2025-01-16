@@ -4,18 +4,24 @@
 #include "vec3.h"
 using namespace std;
 
-bool hit_sphere(const point3& center, double radius, const ray& r) {
+double hit_sphere(const point3& center, double radius, const ray& r) {
     auto c_minus_q = center - r.origin();
-    auto a = dot(r.direction(), r.direction());
-    auto b = -2 * dot(r.direction(), c_minus_q);
-    auto c = dot(c_minus_q, c_minus_q) - radius * radius;
-    auto d = b * b - 4 * a * c;
-    return d >= 0;
+    auto a = r.direction().length_squared();
+    auto h = dot(r.direction(), c_minus_q);
+    auto c = c_minus_q.length_squared() - radius * radius;
+    auto discriminant = h * h - a * c;
+
+    if (discriminant < 0) return -1.0;
+    
+    return ((h - sqrt(discriminant)) / a);
 }
 
 color ray_color(const ray& r) {
-    if (hit_sphere(point3(0, 0, -1), 0.5, r))
-        return color(1, 0, 0);
+    auto sphere_hit = hit_sphere(point3(0, 0, -1), 0.5, r);
+    if (sphere_hit > 0.0) {
+        auto R = unit_vector(r.at(sphere_hit) - vec3(0, 0, -1));
+        return 0.5 * color(R.x() + 1, R.y() + 1, R.z() + 1);
+    }
 
     vec3 unit_direction = unit_vector(r.direction());
     auto a = 0.5 * (unit_direction.x() + 1.0);
