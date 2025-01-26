@@ -155,9 +155,9 @@ CMakeFiles/raytracer.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.1.0/backward/auto_ptr.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\color.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\vec3.h \
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\interval.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\ray.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\hittable.h \
- C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\interval.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\hittable_list.h \
  C:/msys64/mingw64/include/c++/13.1.0/vector \
  C:/msys64/mingw64/include/c++/13.1.0/bits/stl_vector.h \
