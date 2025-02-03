@@ -167,6 +167,7 @@ CMakeFiles/raytracer.dir/main.cpp.obj: C:/Users/vighv/projects/VS_Code/Raytracin
   C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/hittable.h \
   C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/hittable_list.h \
   C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/interval.h \
+  C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/material.h \
   C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/ray.h \
   C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/rtweekend.h \
   C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/sphere.h \
@@ -508,6 +509,8 @@ C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/hittable.h:
 C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/hittable_list.h:
 
 C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/interval.h:
+
+C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/material.h:
 
 C:/Users/vighv/projects/VS_Code/Raytracing-In-A-Weekend/ray.h:
 

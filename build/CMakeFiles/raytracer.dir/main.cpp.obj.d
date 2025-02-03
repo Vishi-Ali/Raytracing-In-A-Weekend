@@ -164,4 +164,5 @@ CMakeFiles/raytracer.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.1.0/bits/stl_bvector.h \
  C:/msys64/mingw64/include/c++/13.1.0/bits/vector.tcc \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\sphere.h \
- C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\camera.h
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\camera.h \
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\material.h
