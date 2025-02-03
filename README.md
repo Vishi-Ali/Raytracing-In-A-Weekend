@@ -5,6 +5,7 @@
 
 ![alt text](https://github.com/Vishi-Ali/Raytracing-In-A-Weekend/blob/main/build/output%20preview.jpg)
 
+- Created a diffuse material to simulate light reflections
 - Added Anti-Aliasing
 - Converted to a modular setup
 - Used a hittable list to support multiple objects
