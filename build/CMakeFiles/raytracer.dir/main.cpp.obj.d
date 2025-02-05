@@ -25,6 +25,7 @@ CMakeFiles/raytracer.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/malloc.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
  C:/msys64/mingw64/include/errno.h \
+ C:/msys64/mingw64/include/c++/13.1.0/cstdlib \
  C:/msys64/mingw64/include/c++/13.1.0/iostream \
  C:/msys64/mingw64/include/c++/13.1.0/ostream \
  C:/msys64/mingw64/include/c++/13.1.0/ios \
@@ -108,7 +109,6 @@ CMakeFiles/raytracer.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.1.0/bits/alloc_traits.h \
  C:/msys64/mingw64/include/c++/13.1.0/bits/stl_construct.h \
  C:/msys64/mingw64/include/c++/13.1.0/ext/string_conversions.h \
- C:/msys64/mingw64/include/c++/13.1.0/cstdlib \
  C:/msys64/mingw64/include/c++/13.1.0/cstdio \
  C:/msys64/mingw64/include/c++/13.1.0/cerrno \
  C:/msys64/mingw64/include/c++/13.1.0/bits/charconv.h \
@@ -154,8 +154,8 @@ CMakeFiles/raytracer.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.1.0/bits/atomic_lockfree_defines.h \
  C:/msys64/mingw64/include/c++/13.1.0/backward/auto_ptr.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\color.h \
- C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\vec3.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\interval.h \
+ C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\vec3.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\ray.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\hittable.h \
  C:\Users\vighv\projects\VS_Code\Raytracing-In-A-Weekend\hittable_list.h \
