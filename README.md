@@ -3,7 +3,7 @@
 
  Progress So Far:
 
-![alt text](https://github.com/Vishi-Ali/Raytracing-In-A-Weekend/blob/main/build/output%20preview.jpg)
+![alt text](https://github.com/Vishi-Ali/Raytracing-In-A-Weekend/blob/main/output%20preview.jpg)
 
 - Created a diffuse material to simulate light reflections
 - Added Anti-Aliasing
